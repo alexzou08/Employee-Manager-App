@@ -1,5 +1,8 @@
 # Employee-Manager-App
 
+This is a project that I did at ...company. 
+The project is inspired by 
+
 [Link to the project tutorial](https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=18s)
 
 # Screenshots
